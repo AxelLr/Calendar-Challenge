@@ -1,6 +1,6 @@
 ## Important Notice
 
-This challenge was developed and tested in an Android environment. It is recommended to run and test the application on Android devices or emulators, as iOS was not considered during development.
+The challenge was developed and tested in an Android environment. It is recommended to run and test the application on Android devices, as iOS was not considered during development.
 
 # Digs Calendar Code Challenge
 
