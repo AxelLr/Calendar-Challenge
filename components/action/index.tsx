@@ -23,12 +23,12 @@ const Action: React.FC<ActionProps> = (props) => {
 
   return (
     <Box flexDirection="row">
-      <Box alignItems="flex-start" width={40}>
+      <Box alignItems="center" pr="8px" width={40}>
         <Box alignItems="center">
           <Typography fontWeight="bold" fontSize={12} color="#666">
             {dayName}
           </Typography>
-          <Typography fontWeight="bold" fontSize={26} my="4px">
+          <Typography fontWeight="bold" fontSize={26} mt="3px" mb="5px">
             {dayOfMonth}
           </Typography>
           {ActionIcon && <ActionIcon size={25} color="#00B47D" />}
